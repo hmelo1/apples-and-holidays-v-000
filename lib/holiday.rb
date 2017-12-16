@@ -95,7 +95,7 @@ def all_supplies_in_holidays(holiday_hash)
       #end
     #end
   #end
-  holiday_supplies.each
+  holiday_supplies.each do | season, holidays|
 
   end
 end
